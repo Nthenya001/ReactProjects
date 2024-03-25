@@ -1,4 +1,4 @@
-Here's the text formatted for GitHub:
+
 
 ```markdown
 ## Writing Markup with JSX
@@ -39,5 +39,3 @@ Then you write the CSS rules for it in a separate CSS file:
 
 React does not prescribe how you add CSS files. In the simplest case, you’ll add a `<link>` tag to your HTML. If you use a build tool or a framework, consult its documentation to learn how to add a CSS file to your project.
 ```
-
-You can directly paste this content into your README.md file on GitHub.
